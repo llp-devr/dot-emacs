@@ -3,6 +3,12 @@
 
 # But not these files...
 !.gitignore
+
+!early-init.el
+
 !init.el
 !init.d/
 !init.d/**/*
+
+!eshell/
+!eshell/**/*
