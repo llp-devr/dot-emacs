@@ -12,3 +12,6 @@
 
 !eshell/
 !eshell/**/*
+
+!images/
+!images/**/*
